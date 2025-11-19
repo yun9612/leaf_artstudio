@@ -12,9 +12,9 @@
     </div>
     <div class="flex flex-col gap-3 text-center mt-18 md:mt-25">
       <!-- 상호명 -->
-      <p class="font-semibold text-base md:text-2xl">Leaf Art Studio</p>
+      <p class="font-semibold text-base md:text-2xl text-[#194d29]">Leaf Art Studio</p>
       <!-- 간단 소개 -->
-      <p>삼덕동 그림 공방 리프아트스튜디오입니다.</p>
+      <p class="text-[#194d29]">삼덕동 그림 공방 리프아트스튜디오입니다.</p>
     </div>
     <!-- 링크 버튼들 -->
     <div class="flex flex-col gap-4 items-center mt-10 md:mt-17">
