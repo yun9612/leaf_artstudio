@@ -3,7 +3,7 @@
     <!-- 헤더 -->
     <div class="relative">
       <!-- 헤더 이미지 -->
-      <img class="w-full opacity-80 max-h-[250px]" src="/headerbg.jpg" alt="headerBG" />
+      <img class="w-full opacity-80 max-h-[250px]" src="/headerbg.png" alt="headerBG" />
       <!-- 로고 이미지 동그랗게 -->
       <img
         class="w-[25%] max-w-[140px] rounded-full absolute left-1/2 bottom-0 -translate-x-1/2 translate-y-1/2"
