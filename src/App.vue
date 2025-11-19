@@ -21,21 +21,21 @@
       <!-- 인스타그램 -->
       <a
         target="_blank"
-        class="border w-[200px] block py-2 text-center rounded-full border-[#194d29] text-[#194d29] font-bold hover:bg-[#194d29] hover:text-[#ffeddd]"
+        class="border w-[200px] block py-2 text-center rounded-full border-[#194d29] text-[#194d29] font-medium hover:bg-[#194d29] hover:text-[#ffeddd]"
         href="https://www.instagram.com/leaf.art_studio/#">
         인스타그램
       </a>
       <!-- 네이버 플레이스 -->
       <a
         target="_blank"
-        class="border w-[200px] block py-2 text-center rounded-full border-[#194d29] text-[#194d29] font-bold hover:bg-[#194d29] hover:text-[#ffeddd]"
+        class="border w-[200px] block py-2 text-center rounded-full border-[#194d29] text-[#194d29] font-medium hover:bg-[#194d29] hover:text-[#ffeddd]"
         href="https://naver.me/GmtRyCsS">
         네이버 플레이스
       </a>
       <!-- 카카오톡 -->
       <a
         target="_blank"
-        class="border w-[200px] block py-2 text-center rounded-full border-[#194d29] text-[#194d29] font-bold hover:bg-[#194d29] hover:text-[#ffeddd]"
+        class="border w-[200px] block py-2 text-center rounded-full border-[#194d29] text-[#194d29] font-medium hover:bg-[#194d29] hover:text-[#ffeddd]"
         href="http://pf.kakao.com/_ExiSxcn">
         카카오톡
       </a>
